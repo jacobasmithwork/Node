@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="node.LinkedListTest" time="0.028" tests="14" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="21"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="c:\Users\Jacob\Desktop\java\Node\demo\target\test-classes;c:\Users\Jacob\Desktop\java\Node\demo\target\classes;C:\Users\Jacob\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\Jacob\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="America/New_York"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="21"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-21\bin"/>
+    <property name="sun.java.command" value="C:\Users\Jacob\AppData\Local\Temp\surefire10777604039870380265\surefirebooter4017601973821583284.jar C:\Users\Jacob\AppData\Local\Temp\surefire10777604039870380265 2024-01-29T20-16-16_967-jvmRun1 surefire89888008166449834tmp surefire_03135761465511801561tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="c:\Users\Jacob\Desktop\java\Node\demo\target\test-classes;c:\Users\Jacob\Desktop\java\Node\demo\target\classes;C:\Users\Jacob\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\Jacob\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Jacob"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2023-10-17"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-21"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="c:\Users\Jacob\Desktop\java\Node\demo"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\Jacob\AppData\Local\Temp\surefire10777604039870380265\surefirebooter4017601973821583284.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="21.0.1+12-LTS-29"/>
+    <property name="user.name" value="Jacob"/>
+    <property name="stdout.encoding" value="Cp1252"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\Jacob\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\Jacob\AppData\Local\Temp\"/>
+    <property name="java.version" value="21.0.1"/>
+    <property name="user.dir" value="c:\Users\Jacob\Desktop\java\Node\demo"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-21\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Eclipse Adoptium\jdk-8.0.322.6-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Program Files (x86)\ZeroTier\One\;C:\Program Files\dotnet\;C:\apache-maven-3.9.5-src\apache-maven-3.9.5\apache-maven\src\bin;C:\Program Files\Java\javafx-sdk-21.0.1\lib;C:\Users\Jacob\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Jacob\AppData\Local\Programs\Python\Python310\;C:\Users\Jacob\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\Jacob\AppData\Local\Programs\Python\Python311\;C:\Users\Jacob\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\Jacob\AppData\Local\Programs\Python\Python39\;C:\Users\Jacob\AppData\Local\Microsoft\WindowsApps;C:\Users\Jacob\AppData\Local\Programs\Microsoft VS Code\bin;C:\msys64\ucrt64\bin;C:\Program Files\Java\apache-maven-3.9.5\bin;C:\Program Files\Java\javafx-sdk-21.0.1\lib;C:\Users\Jacob\AppData\Local\GitHubDesktop\bin;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="stderr.encoding" value="Cp1252"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="21.0.1+12-LTS-29"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="65.0"/>
+  </properties>
+  <testcase name="linkedListAddTest1" classname="node.LinkedListTest" time="0.003"/>
+  <testcase name="linkedListAddTest2" classname="node.LinkedListTest" time="0"/>
+  <testcase name="linkedListAddTest3" classname="node.LinkedListTest" time="0"/>
+  <testcase name="linkedListAddTest4" classname="node.LinkedListTest" time="0"/>
+  <testcase name="linkedListSearchTest1" classname="node.LinkedListTest" time="0"/>
+  <testcase name="linkedListSearchTest2" classname="node.LinkedListTest" time="0"/>
+  <testcase name="linkedListSearchTest3" classname="node.LinkedListTest" time="0"/>
+  <testcase name="linkedListSearchTest4" classname="node.LinkedListTest" time="0"/>
+  <testcase name="linkedListSearchTest5" classname="node.LinkedListTest" time="0"/>
+  <testcase name="linkedListSearchTest6" classname="node.LinkedListTest" time="0"/>
+  <testcase name="linkedListInsertTest1" classname="node.LinkedListTest" time="0"/>
+  <testcase name="linkedListInsertTest2" classname="node.LinkedListTest" time="0"/>
+  <testcase name="linkedListInsertTest3" classname="node.LinkedListTest" time="0"/>
+  <testcase name="linkedListConstructorTest" classname="node.LinkedListTest" time="0"/>
+</testsuite>
