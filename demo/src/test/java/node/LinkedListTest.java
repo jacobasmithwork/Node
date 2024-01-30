@@ -6,7 +6,7 @@ import static org.junit.Assert.assertTrue;
 import org.junit.Test;
 
 /**
- * Unit tests for LinkedList Class.
+ * Unit tests for LinkedList Class made by Jacob Smith.
  */
 public class LinkedListTest {
     /**
